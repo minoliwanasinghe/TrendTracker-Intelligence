@@ -1,0 +1,1 @@
+# TrendTracker-Intelligence
